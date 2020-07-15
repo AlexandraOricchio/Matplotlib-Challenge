@@ -4,6 +4,17 @@ A burgeoning pharmaceutical company that specializes in drug-based, anti-cancer 
 Using Python Matplotlib, I created the following visuals to base my analysis on: 
 
 - A scatter plot showing how tumor volume changes over time for each treatment.
+
+![tumorvolume](Images/tumor_volume.JPG)
+
 - A scatter plot showing how the number of metastatic (cancer spreading) sites changes over time for each treatment.
+
+![metasticsite](Images/metastic_sites.JPG)
+
 - A scatter plot showing the number of mice still alive through the course of treatment (Survival Rate).
+
+![survivalrate](Images/survival_rate.JPG)
+
 - A bar graph comparing the total % tumor volume change for each drug across the full 45 days.
+
+![45daychange](Images/45day_change.JPG)
